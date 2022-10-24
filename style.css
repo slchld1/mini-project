@@ -4,9 +4,6 @@
     color:rgb(226 ,226, 226);
     box-sizing: border-box;
 }
-.backgroundcolor {
-    background-color: grey;
-}
 nav {
     z-index: 1;
     position: fixed;
